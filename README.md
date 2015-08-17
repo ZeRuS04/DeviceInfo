@@ -1,0 +1,2 @@
+# DeviceInfo
+Test for AstraSoft
